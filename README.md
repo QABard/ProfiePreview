@@ -10,4 +10,7 @@ I've got postgraduate degree as QA Engineer and I'm constantly improving my skil
 
 ⚡ I do really love sports activities and DnD games
 <br><br>Always open to new opportunities
-<p align="left"> <a href="https://t.me/Daniel_Bard" target="_blank" rel="noreferrer"><img src='https://cdnlogo.com/logos/t/39/telegram.svg' alt='telegram' height='40' /></a></p>
+![](https://komarev.com/ghpvc/?username=QABard)
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Daniel_Bard)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/danil-bardiukov)
