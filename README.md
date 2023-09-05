@@ -9,7 +9,7 @@ I've got postgraduate degree as QA Engineer and I'm constantly improving my skil
  <br>Familiar with JavaScript, Ruby, Python, PHP
 
 ⚡ I do really love sports activities and DnD games
-<br><br>Always open to new opportunities
+<br><br>Always open to new opportunities<br><br>
 ![](https://komarev.com/ghpvc/?username=QABard)
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Daniel_Bard)
