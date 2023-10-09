@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Daniel.
 ##### I'm QA Engineer Junior (manual).
-I've got postgraduate degree as QA Engineer and I'm constantly improving my skills.
+I've got postgraduate degree as QA Engineer and I'm constantly improving my skills.<br>
 My CV - in the main repository
 <br><br>
 <br><b>I have experience with</b>
