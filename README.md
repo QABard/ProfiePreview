@@ -1,6 +1,7 @@
 ### Hi there 👋 my name is Daniel.
 ##### I'm QA Engineer Junior (manual).
 I've got postgraduate degree as QA Engineer and I'm constantly improving my skills.
+My CV - in the main repository
 <br><br>
 <br><b>I have experience with</b>
  <br><b> Software -> </b> Postman / Apidoc / Swagger / DeBeaver / Charles Proxy / DevTools / Linux + console / Cygwin64 Terminal / Figma / Qase / Youtrack / GitHub / Yandex Cloud / Android Studio
