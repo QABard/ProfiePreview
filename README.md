@@ -1,5 +1,5 @@
 ### Hi there 👋 my name is Daniel.
-##### I'm QA Engineer Junior (manual).
+##### I'm QA Engineer (manual).
 I've got postgraduate degree as QA Engineer and I'm constantly improving my skills.<br>
 My CV - in the main repository
 <br><br>
