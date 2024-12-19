@@ -1,12 +1,13 @@
 ### Hi there 👋 my name is Daniel.
-##### I'm QA Engineer (manual).
+##### I'm Fullstack QA Engineer.
 I've got postgraduate degree as QA Engineer and I'm constantly improving my skills.<br>
 My CV - in the main repository
 <br><br>
 <br><b>I have experience with</b>
- <br><b> Software -> </b> Postman / Apidoc / Swagger / DeBeaver / Charles Proxy / DevTools / Linux + console / Cygwin64 Terminal / Figma / Qase / Youtrack / GitHub / Yandex Cloud / Android Studio
+ <br><b> Software -> </b> 
+IntelliJ IDEA / Postman / Jenkins / Apidoc / Swagger / DeBeaver / Table Plus / Charles Proxy / DevTools / Linux + console / Terminal / Figma / TestRail / Qase / Youtrack / GitHub / Yandex Cloud / Android Studio / Jira / Confluence / Grafana / Sentry
 
-<b> Languages and technologies -> </b> REST API / SQL / PostgreSQL / MySQL / HTML / CSS / XML / JSON
+<b> Languages and technologies -> </b> Java / REST API / SQL / PostgreSQL / MySQL / HTML / CSS / XML / JSON
  <br>Familiar with JavaScript, Ruby, Python, PHP
 
 ⚡ I do really love sports activities and DnD games
